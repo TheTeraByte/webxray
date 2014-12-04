@@ -1,6 +1,5 @@
 (function(jQuery) {
   "use strict";
-
   var $ = jQuery;
   var MAX_URL_LENGTH = 35;
   
