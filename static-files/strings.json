@@ -27,10 +27,10 @@
     "replacement": "replacement"
   },
   "dialog-common": {
-    "ok": "REMIX!",
+    "ok": "Remix!",
     "nevermind": "Nevermind",
     "close": "Close",
-    "product-name": "Wiki Goggles"
+    "product-name": "Detective Goggles"
   },
   "mix-master-dialog": {
     "html-header": "HTML Source Code",
@@ -38,7 +38,7 @@
     "rendering-header": "What You See",
     "basic-source-tab": "Basic",
     "advanced-source-tab": "Advanced",
-    "title": "Remix!"
+    "title": "  "
   },
   "uproot-dialog": {
     "header": "Publish Your Remix",

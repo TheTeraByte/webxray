@@ -66,7 +66,7 @@
           if (info.id)
             span.emit(" ", l10n("with"), " ", l10n("id"), " ",
                       code(info.id));
-          if (info.className)
+          if (info.className) 
             span.emit(" " + (info.id ? l10n("and") : l10n("with")),
                       " ", l10n("class"), " ",
                       code(info.className));
