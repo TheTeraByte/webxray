@@ -96,7 +96,7 @@ def cmd_serve(args, cfg):
 
 def cmd_serve_args(parser):
     parser.add_argument('--port', help='port to serve on',
-                        type=int, default=8000)
+                        type=int, default=8080)
     parser.add_argument('--ip', help='IP to bind to',
                         default='')
 

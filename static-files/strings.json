@@ -1,6 +1,6 @@
 {
   "hud-overlay": {
-    "default-html": "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>",
+    "default-html": "<span>Detective Goggles Super Vision activated! Press ESC to deactivate.</span>",
     "element": "element",
     "with": "with",
     "id": "id",
@@ -27,10 +27,10 @@
     "replacement": "replacement"
   },
   "dialog-common": {
-    "ok": "Commit changes",
+    "ok": "REMIX!",
     "nevermind": "Nevermind",
     "close": "Close",
-    "product-name": "X-Ray Goggles"
+    "product-name": "Wiki Goggles"
   },
   "mix-master-dialog": {
     "html-header": "HTML Source Code",
@@ -38,7 +38,7 @@
     "rendering-header": "What You See",
     "basic-source-tab": "Basic",
     "advanced-source-tab": "Advanced",
-    "title": "Remixer"
+    "title": "Remix!"
   },
   "uproot-dialog": {
     "header": "Publish Your Remix",
