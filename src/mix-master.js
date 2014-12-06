@@ -121,8 +121,13 @@
         var element = focused.getPrimaryElement();
         open = open || window.open;
         if (element) {
-          var url = 'https://developer.mozilla.org/en/HTML/Element/' +
-                    element.nodeName.toLowerCase();
+          var tag=element.nodeName.toLowerCase();
+          if(tag==="p")
+          {
+             tag="Basic_text";   
+          }  
+          var url = 'http://en.wikipedia.org/wiki/HTML_element#' +
+                    tag;
           open(url, 'info');
         }
       },
