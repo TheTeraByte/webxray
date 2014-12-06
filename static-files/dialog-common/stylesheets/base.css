@@ -16,7 +16,7 @@
 html, body {
   font-family: sans-serif;
   margin: 0px;
-  color: #41415b;
+  color: white;
   height: 100%;
   background-attachment: fixed;
   /*background-image: -webkit-gradient(linear, left top, left 100px, from(#ffebb2), to(white));
