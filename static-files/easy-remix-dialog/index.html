@@ -156,6 +156,24 @@ span.sample {
 .tipsy a {
   color: inherit;
 }
+
+.instructions
+{
+  background-color: black;
+  height: auto;
+  width: 300px;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 10%;
+}
+
+.instructions_text
+{
+  color: white;
+  font-family: sans-serif;
+}
+
+
 </style>
 <div class="container">
 <div id="buttons">
@@ -179,6 +197,16 @@ span.sample {
   <h2 data-l10n="rendering-header">Preview</h2>
   <iframe id="preview" scrolling="no" src="blank.html"></iframe>
 </div>
+<!-- SURBHI -->
+<div class="instructions">
+  <p class="instructions_text">
+    In the 'Basic' tab, view the HTML code snippet for the partciular HTML tag you chose. You can go into it and make changes to 
+    the the content being displayed, as well as the tag attributes. Click 'REMIX' to see your changes on the actual webpage. You 
+    can see a preview of the chnages in the 'What you see' box above.
+    Go the advanced tab to see the full HTML code for the file! 
+  </p>
+</div>
+<!--SURBHI - END -->
 </div>
 <script>
 "use strict";
